@@ -1,5 +1,4 @@
 from fastapi import FastAPI, HTTPException, Request
-from typing import List
 
 app = FastAPI()
 
